@@ -20,5 +20,4 @@ class instabot:
 
 
 
-instabot('muhamedhussamm2014@gmail.com','Mido01114694188')
-
+instabot('username','pw')

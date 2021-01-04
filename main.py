@@ -18,13 +18,12 @@ class instabot:
         self.driver.find_element_by_xpath("//button[contains(text(),'Not Now')]").click()
         sleep(4)
         for i in range(2):
-        for i in range(5):
+            for i in range(5):
                 self.driver.find_element_by_xpath(("//button[text()='Follow']")) \
                     .click()
 
                 sleep(2)
-        sleep(2)
-
+            sleep(2)
 #t2dr tegarp bl account dh ya bashmohands
 #username= 'Muhamedhussamm2014@gmail.com'
 #pw = 'Mido01114694188'

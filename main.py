@@ -27,6 +27,9 @@ class instabot:
 
         sleep(2)
 
+#t2dr tegarp bl account dh ya bashmohands
+#username= 'Muhamedhussamm2014@gmail.com'
+#pw = 'Mido01114694188'
 
 
-instabot('username','pw') # write the user name and password manually
+instabot('username','pw') # write the user name and password manually 34an tesha5l el function
